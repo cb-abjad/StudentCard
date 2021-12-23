@@ -1,0 +1,16 @@
+{
+  "title": "RecipeReviewCard Material Demo",
+  "name": "RecipeReviewCard Material Demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.2.5/docs/src/pages/components/cards/RecipeReviewCard.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "@mui/material": "latest",
+    "@mui/icons-material": "latest",
+    "@emotion/styled": "latest",
+    "@emotion/react": "latest"
+  }
+}
